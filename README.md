@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sridhar</h1>
 <h3 align="center">A passionate web and app developer from India</h3>
 
-- 🌱 I’m currently learning **AWS**
+<!--  🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Flutter, MERN**
 
@@ -21,4 +21,5 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=illuminati9&show_icons=true&locale=en&layout=compact" alt="illuminati9" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=illuminati9&label=Profile%20views&color=0e75b6&style=flat" alt="illuminati9" /> </p>
-
+--
+-->
